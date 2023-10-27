@@ -209,3 +209,39 @@ body {
     height: auto;
     margin: 20px;
 }
+
+.rangkum{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.rangkum h2{
+    background-color: rgb(35, 73, 107);
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.container_rangkum {
+    display: flex;
+}
+
+.rangkum_1 {
+    width: 45%;
+    background-color: rgb(35, 73, 107);
+    margin: 50px; 
+    padding: 20px; 
+    /* text-align: center; */
+}
+
+.rangkum_2 {
+    width: 45%;
+    background-color: rgb(35, 73, 107);
+    margin: 50px;  
+    padding: 20px; 
+    /* text-align: center; */
+}
+
+.rangkum_1 p, .rangkum_2 p {
+    text-align: left;
+
+}
